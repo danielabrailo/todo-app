@@ -1,3 +1,7 @@
+
+![demo-gif](https://github.com/danielabrailo/todo-app/blob/5b46e2b1fb5635b727971121c4ce390875105c5c/src/todo-app.gif)
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
